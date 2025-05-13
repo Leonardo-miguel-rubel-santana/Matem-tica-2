@@ -1,0 +1,10 @@
+body {
+    background-color:gainsboro 
+
+}
+footer {
+    background-color:black
+    color:aliceblue;
+    position: fixed;
+    bottom 0;
+}
