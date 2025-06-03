@@ -5,7 +5,7 @@ criaCartao(
 )
 
 criaCartao(
-    'JOGADOR',
+    'Jogador',
    'Qual jogador éconhecido como robô?',
     'É O Cristiano Ronaldo'  
 )
